@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ybJ8EfmNSd3Ohg5HgDVKuUXInALvHqQwRqhgP/dn4i/uHGj6O4MFN416SOQp+mvkdJDhl1PYphP8y/v13Op/hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semih.dizdar\\Documents\\GitHub\\ProjejctManagement\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.64.0.151:5555/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
